@@ -23,6 +23,7 @@ main {
   align-items: center;
 }
 main .container {
+  min-width: 400px;
   width: 25vw;
   height: 70vh;
   border-radius: 10px;
@@ -84,5 +85,5 @@ main .container .music-controller .btn-controller button {
   background-color: transparent;
   color: whitesmoke;
   border: none;
-  font-size: 1.4vw;
+  font-size: 20px;
 }/*# sourceMappingURL=style.css.map */

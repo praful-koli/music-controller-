@@ -23,6 +23,7 @@ main {
   align-items: center;
 
   .container {
+    min-width: 400px;
     width: 25vw;
     height: 70vh;
     border-radius: 10px;
@@ -85,7 +86,7 @@ main {
           background-color: transparent;
           color: whitesmoke;
           border: none;
-          font-size: 1.4vw;
+          font-size: 20px;
         }
       }
     }
